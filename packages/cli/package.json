@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-secrets-manager": "3.808.0",
-    "@azure/identity": "4.3.0",
+    "@azure/identity": "4.4.0",
     "@azure/keyvault-secrets": "4.8.0",
     "@google-cloud/secret-manager": "5.6.0",
     "@n8n/api-types": "workspace:*",
@@ -164,7 +164,7 @@
     "raw-body": "3.0.0",
     "reflect-metadata": "catalog:",
     "replacestream": "4.0.3",
-    "samlify": "2.9.0",
+    "samlify": "2.10.0",
     "semver": "7.5.4",
     "shelljs": "0.8.5",
     "simple-git": "3.17.0",
